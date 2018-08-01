@@ -1,4 +1,4 @@
-# GraphQL-php sample
+# GraphQL-php and json example
 
 ## Server
 
